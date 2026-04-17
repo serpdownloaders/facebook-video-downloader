@@ -1,0 +1,10 @@
+{
+  "actorSpecification": 1,
+  "buildTag": "latest",
+  "description": "Facebook Video Downloader gives creators and teams a dependable way to save Facebook videos instantly for offline viewing. Instead of juggling manual captures or questionable browser extensions, it pulls content directly from Facebook with consistent quality and predictable results.\n\nIt supports High-quality Facebook downloads quality, Public and private video content, and Batch from pages, groups,/profiles downloads, so you can move quickly from download to delivery without tedious rework. Use it to archive Facebook assets, prep client deliverables, or keep your library accessible when connectivity is limited.",
+  "input": "./INPUT_SCHEMA.json",
+  "name": "facebook-video-downloader",
+  "readme": "../ACTOR.md",
+  "title": "Facebook Downloader",
+  "version": "0.0"
+}
