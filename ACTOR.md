@@ -1,4 +1,4 @@
-# Facebook Downloader (Browser Extension)
+# Facebook Downloader
 
 > Download Facebook videos, Reels, images, and visible post text in one browser workflow.
 
